@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "title": "DevDeck",
+    "description": "A comprehensive coding practice platform similar to NeetCode, featuring structured problem sets, progress tracking, and interactive coding challenges.",
+    "image": "/images/projects/devdeck.png",
+    "tags": ["Next.js", "React", "TailwindCSS", "TypeScript"],
+
+    "liveDemo": "https://devdeckapp.vercel.app/",
+    "sourceCode": "https://github.com/andyllerena/devdeck"
+  },
+  {
+    "id": 2,
+    "title": "Health Me",
+    "description": "An all-in-one health tracker with custom NLP model for intelligent health insights, meal tracking, and fitness monitoring.",
+    "image": "/images/projects/healthme.png",
+    "tags": ["Next.js", "React", "NLP", "Python"],
+    "liveDemo": "https://healthai.vercel.app/",
+    "sourceCode": "https://github.com/andyllerena/HealthMe/tree/main/healthme-main"
+  },
+  {
+    "id": 4,
+    "title": "Gen-Visa",
+    "description": "A website utilizing VISA design tools with generative output suggestions and prompt generator for creative visa designs.",
+    "image": "/images/projects/genvisa.png",
+    "tags": ["Next.js", "React", "TailwindCSS", "Generative UI"],
+    "liveDemo": "https://gen-visa.vercel.app/",
+    "sourceCode": "https://github.com/andyllerena/visa-app"
+  },
+
+  {
+    "id": 6,
+    "title": "Movie App",
+    "description": "A React.js Movie App offering users a seamless experience to discover and view movie posters with search functionality.",
+    "image": "/images/projects/movieapp1.png",
+    "tags": ["React", "JavaScript", "API Integration", "CSS3"],
+    "liveDemo": "https://moviepostersite.netlify.app/",
+    "sourceCode": "https://github.com/andyllerena/movieapp"
+  },
+  {
+    "id": 7,
+    "title": "Weather App",
+    "description": "A React.js Weather App providing users with up-to-date weather forecasts and information based on location.",
+    "image": "/images/projects/weatherapp.png",
+    "tags": ["React", "JavaScript", "Weather API", "CSS3"],
+    "liveDemo": "https://animated-tarsier-449633.netlify.app/",
+    "sourceCode": "https://github.com/andyllerena/weather-app"
+  },
+
+  {
+    "id": 9,
+    "title": "QR Code Generator",
+    "description": "A React.js project implementing a QR code generator, allowing users to dynamically create QR codes for various purposes.",
+    "image": "/images/projects/qrcode.png",
+    "tags": ["React", "JavaScript", "QR Generation", "UI/UX"],
+    "liveDemo": "https://scangenius.netlify.app/",
+    "sourceCode": "https://github.com/andyllerena/qrcode"
+  },
+  {
+    "id": 8,
+    "title": "BookYourTravel",
+    "description": "A visually appealing travel landing page serving as a practical example for learning modern web development technologies.",
+    "image": "/images/projects/bookyourtravel.png",
+    "tags": ["Next.js", "TailwindCSS", "TypeScript", "UI/UX"],
+    "liveDemo": "https://bookyoutravel.vercel.app/",
+    "sourceCode": "https://github.com/andyllerena/travel_app"
+  },
+  {
+    "id": 11,
+    "title": "Andy Llerena Portfolio",
+    "description": "A personal portfolio website showcasing projects, skills, and experience as a full stack engineer.",
+    "image": "/images/projects/bookyourtravel.png",
+    "tags": ["Next.js", "TailwindCSS", "TypeScript", "UI/UX"],
+    "liveDemo": "https://andyllerenaportfolio.netlify.app/",
+    "sourceCode": "https://github.com/andyllerena/travel_app"
+  },
+  {
+    "id": 10,
+    "title": "CareBook",
+    "description": "A responsive healthcare management system allowing patients to register, book, and manage appointments while administrators oversee scheduling.",
+    "image": "/images/projects/carebook1.png",
+    "tags": ["Next.js", "Appwrite", "TailwindCSS", "TypeScript"],
+    "sourceCode": "https://github.com/andyllerena/healthcare-main"
+  }
+]
