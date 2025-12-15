@@ -31,7 +31,7 @@ const VirusWatcherSection = () => {
             VirusWatcher
           </h2>
           <p className="text-lg sm:text-xl text-textPrimary/80 dark:text-textPrimary-dark/80 max-w-3xl mx-auto">
-            Getting to know my latest endeavor with a group of engineers
+            An overview of what I’ve been building lately
           </p>
         </div>
 

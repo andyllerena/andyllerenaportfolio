@@ -67,12 +67,12 @@
   },
   {
     "id": 11,
-    "title": "Andy Llerena Portfolio",
-    "description": "A personal portfolio website showcasing projects, skills, and experience as a full stack engineer.",
-    "image": "/images/projects/bookyourtravel.png",
+    "title": "My Portfolio",
+    "description": "A personal portfolio website showcasing projects, skills, and experience as a full stack engineer. Updated design and content for 2026.",
+    "image": "/images/projects/portfolio.png",
     "tags": ["Next.js", "TailwindCSS", "TypeScript", "UI/UX"],
     "liveDemo": "https://andyllerenaportfolio.netlify.app/",
-    "sourceCode": "https://github.com/andyllerena/travel_app"
+    "sourceCode": "https://github.com/andyllerena/andyllerenaportfolio"
   },
   {
     "id": 10,
